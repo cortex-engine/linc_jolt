@@ -1,0 +1,10 @@
+-D message.no-color
+-D HXCPP_M64
+-D hxcpp_static_std
+-D HXCPP_GC_BIG_BLOCKS
+-D HXCPP_CPP17
+
+-lib linc_jolt
+-cpp bin
+-cp .
+-main Main

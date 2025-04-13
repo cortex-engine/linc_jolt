@@ -1,0 +1,6 @@
+[submodule "lib/JoltPhysics"]
+	path = lib/JoltPhysics
+	url = https://github.com/cortex-engine/JoltPhysics.git
+[submodule "lib/joltc"]
+	path = lib/joltc
+	url = https://github.com/cortex-engine/joltc.git
